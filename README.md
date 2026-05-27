@@ -61,9 +61,14 @@ Model graph:
 Calculation: 
 <img width="585" height="860" alt="image" src="https://github.com/user-attachments/assets/79ffabab-55bc-4f67-bc17-bb1aa11f5dd4" />
 
+
+<img width="1315" height="1600" alt="image" src="https://github.com/user-attachments/assets/bd0342e6-db56-433f-a397-e1a48b91bf48" />
+
+
 Open circuit characteristics
 
-<img width="557" height="634" alt="image" src="https://github.com/user-attachments/assets/fd39f5a3-8d8b-4ab9-91dc-14c39ee6da01" />
+ <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/775f515c-f02e-452f-88d1-7416ba5b93b0" />
+
   
 Load Characteristics:
 

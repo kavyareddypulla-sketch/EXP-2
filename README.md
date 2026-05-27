@@ -67,7 +67,8 @@ Calculation:
 
 Open circuit characteristics
 
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/76f3d84a-604a-4dc0-94b1-0c1c3d88ab35" />
+
+
 
   
 Load Characteristics:
